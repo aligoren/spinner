@@ -8,7 +8,6 @@ Inspired by [askn](https://github.com/askn/spinner)
 
 ```go
 import (
-  "time"
   spinner "./spinner"
 )
 
